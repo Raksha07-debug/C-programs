@@ -2,6 +2,9 @@
     "files.associations": {
         "BMICalculator.C": "cpp",
         "ChefAndBrainSpeed.C": "cpp",
-        "ChefCourses.C": "cpp"
+        "ChefCourses.C": "cpp",
+        "OneFulPairs.C": "cpp",
+        "WaterConsumption.C": "cpp",
+        "LengthOfLastWord.C": "cpp"
     }
 }
