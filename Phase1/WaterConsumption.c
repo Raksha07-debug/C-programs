@@ -6,7 +6,7 @@ int main() {
     // Read the number of test cases
     scanf("%d", &T);
 
-    // Loop through each test case
+    // Loop through each test case.
     while (T--) {
         // Read the water intake 
         scanf("%d", &X);
