@@ -7,7 +7,7 @@ int compare(const void* a, const void* b) {
 }
 
 int threeSumClosest(int* nums, int numsSize, int target) {
-    // This code is written by Anand Soni
+
     qsort(nums, numsSize, sizeof(int), compare);
 
     int closestSum = INT_MAX;
