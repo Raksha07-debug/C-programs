@@ -7,7 +7,7 @@ int main() {
 
     while (t--) {
         scanf("%d %d", &x, &y); 
-        //check sum is greater than 6 or not 
+        //check sum is greater than 6 or not.
         if (x + y > 6) {
             printf("YES\n");
         } else {
