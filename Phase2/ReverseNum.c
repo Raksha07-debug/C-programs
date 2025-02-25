@@ -3,7 +3,7 @@
 int main() {
     int num, reversedNum = 0;
 
-    // Take input from user
+    // Take input from user.
     scanf("%d", &num);
 
     // Reverse the number using a while loop
