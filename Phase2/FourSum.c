@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// This code is written by Anand Soni 
 int compare(const void *a, const void *b) {
     return (*(int*)a - *(int*)b);
 }
