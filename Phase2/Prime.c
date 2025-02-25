@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() { 
-    //This program is written by Anand Soni
+   
     int N, i = 2, isPrime = 1;
     scanf("%d", &N);
     if (N <= 1) {
