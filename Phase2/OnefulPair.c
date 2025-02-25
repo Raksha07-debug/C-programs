@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a, b; // Declare variables for the input integers
+    int a, b; // Declare variables for the input integers.
 
     // Read input values for a and b
     scanf("%d %d", &a, &b);
